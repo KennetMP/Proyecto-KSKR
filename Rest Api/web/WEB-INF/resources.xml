@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="Dragon" type="javax.sql.DataSource">#Mon Oct 22 17:43:43 CST 2018
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=app
+userName=app
+jdbcUrl=jdbc\:derby\://localhost\:1527/sample
+</Resource>
+</resources>
