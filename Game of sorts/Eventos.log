@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-28T23:16:01</date>
+  <millis>1540790161164</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Se ha iniciado la clase principal del juego</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:01</date>
+  <millis>1540790161736</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>El hilo se ha inciado correctamente</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162655</millis>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>init</method>
+  <thread>17</thread>
+  <message>Se ha iniciado el control correctamente</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162661</millis>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>init</method>
+  <thread>17</thread>
+  <message>Se ha creado el controlador</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162664</millis>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>init</method>
+  <thread>17</thread>
+  <message>Se ha creado el jugador</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162668</millis>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Conexion_ServidorWeb.CorreosGOS</class>
+  <method>Iniciar</method>
+  <thread>17</thread>
+  <message>Se ha iniciado correctamente el hilo en la clase CorreosGOS</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162668</millis>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Se han inicializado los datos principales del juego</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162668</millis>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Ha inciado el bucle infinito</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162696</millis>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>render</method>
+  <thread>17</thread>
+  <message>Se ha iniciado el loop de la musica del menu</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:02</date>
+  <millis>1540790162718</millis>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Graficos.Controlador</class>
+  <method>createAnimacionAzar</method>
+  <thread>17</thread>
+  <message>Se ha iniciado una mini oleada de 10 dragones</message>
+</record>
+<record>
+  <date>2018-10-28T23:16:03</date>
+  <millis>1540790163764</millis>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Principal.Juego</class>
+  <method>render</method>
+  <thread>17</thread>
+  <message>Se ha iniciado los loops de la musica del juego</message>
+</record>
+</log>
